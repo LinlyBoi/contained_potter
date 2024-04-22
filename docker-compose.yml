@@ -1,0 +1,6 @@
+version: 3
+data_analysis:
+  image: ds_potter:v0.1
+  name: potter
+  volumes:
+    - ./work:/tmp/work
