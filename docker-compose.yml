@@ -4,5 +4,7 @@ services:
   notebook:
     build: .
     container_name: potter
+    ports:
+      - 8888:8888
     volumes:
       - ./work:/tmp/work
