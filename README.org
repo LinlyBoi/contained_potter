@@ -1,0 +1,6 @@
+#+title: Readme
+The first ever README i made in orgmode
+* What's this?
+Utilising the awesome [[https://hub.docker.com/r/jupyter/datascience-notebook][Jupyter data science image]] to save my soul from the hell that is installing python, jupyter and its dependencies :)
+
+Then using the environment to perform data analysis on a dataset about books (focusing on harry potter as the assignment demanded)
